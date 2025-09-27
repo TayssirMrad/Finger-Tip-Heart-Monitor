@@ -5,5 +5,5 @@ This is a project that uses an Arduino Nano microcontroller to measure heart rat
 - Measures heart rate 
 - Displays real-time data on an OLED screen.
 
-<img width="748" height="388" alt="image" src="https://github.com/user-attachments/assets/c93aed87-6261-4e79-92f7-ab8cae9b4a76" />
+<img width="932" height="526" alt="image" src="https://github.com/user-attachments/assets/e9db93dc-3a01-4077-9949-c1449d2b87ce" />
 
